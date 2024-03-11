@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Flutter and Blockchain Developer.<br><br>I’m currently exploring Data Structure and Algorithm.<br><br>I’m looking forward to collaborating on many Open Source Projects.<br><br>I’m looking for help with Expert -Data Analyst and ML enthusiast<br><br> Ask me about anything here<br><br> How to reach me harshpathakagra@gmail.com<br>
+I’m a Flutter and Blockchain Developer.<br><br>I’m currently exploring Data Structure and Algorithm.<br><br>I’m looking forward to collaborating on many Open Source Projects.<br><br>I’m looking for help with Expert -Data Analyst and ML enthusiast.<br><br> Ask me about anything here<br><br> How to reach me harshpathakagra@gmail.com<br>
 
 
 ## 🌐 Socials:
